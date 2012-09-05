@@ -1,0 +1,9 @@
+.pelican-button span {
+	margin-left:8px;
+}
+.pelican-botton-done span {
+	background: red !important;
+	opacity:.1 !important;
+}
+
+
