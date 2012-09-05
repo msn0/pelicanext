@@ -1,11 +1,16 @@
 {
-  "name": "My First Extension",
-  "version": "1.0",
+  "name": "pelicanext",
+  "version": "0.1",
   "manifest_version": 2,
-  "description": "The first extension that I made.",
+  "description": "google chrome extension for pelican yt-queueing server",
   "browser_action": {
-    "default_icon": "pelicanExt.png",
+    "default_icon": "icon16.png",
     "default_popup": "popup.html"
+  },
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" 
   },
   "content_scripts": [
     {
