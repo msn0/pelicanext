@@ -1,6 +1,6 @@
 {
   "name": "pelicanext",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "google chrome extension for pelican yt-queueing server",
   "browser_action": {
