@@ -1,9 +1,12 @@
 .pelican-button span {
 	margin-left:8px;
 }
-.pelican-botton-done span {
-	background: red !important;
-	opacity:.1 !important;
+.pelican-button-wait {
+	background: #aaa;
+}
+a.pelican-button-done {
+	background: #333;
+	color: #eee;
 }
 
 
